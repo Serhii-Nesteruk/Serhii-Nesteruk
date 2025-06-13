@@ -35,12 +35,12 @@
 
 ## Web Projects
 
-* **TechRepair-Backend**: / \[https://github.com/Serhii-Nesteruk/TechRepair-Backend]
-* **TechRepair-Frontend**: / \[https://github.com/Serhii-Nesteruk/TechRepair-Frontend]
-* **SmartHomeHub-Backend**: / \[https://github.com/Serhii-Nesteruk/SmartHomeHub-Backend]
-* **SmartHomeHub-Frontend**: / \[https://github.com/Serhii-Nesteruk/SmartHomeHub-Frontend]
-* **HRControlPanel**: / \[https://github.com/Serhii-Nesteruk/HRControlPanel]
-* **Webmarket**: https://webmarket.co.ua / \[https://webmarket.co.ua/]
+* **TechRepair-Backend**: / \               [ https://github.com/Serhii-Nesteruk/TechRepair-Backend ]
+* **TechRepair-Frontend**: / \              [ https://github.com/Serhii-Nesteruk/TechRepair-Frontend ]
+* **SmartHomeHub-Backend**: / \             [ https://github.com/Serhii-Nesteruk/SmartHomeHub-Backend ]
+* **SmartHomeHub-Frontend**: / \            [ https://github.com/Serhii-Nesteruk/SmartHomeHub-Frontend ]
+* **HRControlPanel**: / \                   [ https://github.com/Serhii-Nesteruk/HRControlPanel ]
+* **Webmarket**: https://webmarket.co.ua / \[ https://webmarket.co.ua/ ]
 
 ## C++ Projects
 
