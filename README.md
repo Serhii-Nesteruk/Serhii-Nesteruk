@@ -44,15 +44,15 @@
 
 ## C++ Projects
 
-* **NoTimeToRelax**: Game (SFML) / \[https://github.com/Serhii-Nesteruk/NoTimeToRelax]
-* **SeNes2D**: 3D Game Engine written on OpenGL / \[https://github.com/Serhii-Nesteruk/SeNes2D]
-* **TimeToWork**: Game (UE5) / \[https://github.com/Serhii-Nesteruk/TimeToWork]
-* **Tic-Toc-Tac**: Game (SFML) / \[https://github.com/Serhii-Nesteruk/Tic-Toc-Tac]
-* **Snake Game**: Game (SFML) / \[https://github.com/Serhii-Nesteruk/Snake_]
-* **Console-Game-Basis**: Game Engine for console games / \[https://github.com/Serhii-Nesteruk/Console-Game-Basis]
-* **NSock**: C++ Socket Library / \[https://github.com/Serhii-Nesteruk/NSock]
+* **NoTimeToRelax**: Game (SFML) / \[ https://github.com/Serhii-Nesteruk/NoTimeToRelax ]
+* **SeNes2D**: 3D Game Engine written on OpenGL / \[ https://github.com/Serhii-Nesteruk/SeNes2D ]
+* **TimeToWork**: Game (UE5) / \[ https://github.com/Serhii-Nesteruk/TimeToWork ]
+* **Tic-Toc-Tac**: Game (SFML) / \[ https://github.com/Serhii-Nesteruk/Tic-Toc-Tac ]
+* **Snake Game**: Game (SFML) / \[ https://github.com/Serhii-Nesteruk/Snake_ ]
+* **Console-Game-Basis**: Game Engine for console games / \[ https://github.com/Serhii-Nesteruk/Console-Game-Basis ]
+* **NSock**: C++ Socket Library / \[ https://github.com/Serhii-Nesteruk/NSock ]
 
 ## Android Projects
-* **Coffee4youClient**: Mobile app written on Kotlin in Android Studio / \[https://github.com/Serhii-Nesteruk/Coffee4youClient]
+* **Coffee4youClient**: Mobile app written on Kotlin in Android Studio / \[ https://github.com/Serhii-Nesteruk/Coffee4youClient ]
 
 
