@@ -20,7 +20,7 @@ I began my journey in software development with C++, building desktop applicatio
 
 However, realizing that becoming a professional C++ developer requires significant time, patience, and long-term dedication, I decided to explore web development — at that moment it seemed like the most accessible way to start earning money. After a year and a half of learning, I began working as a freelance web developer and spent six months delivering full-stack solutions for clients.
 
-Still, deep inside, I always knew that web development wasn’t my final destination. My passion consistently pulled me back to C++ and low-level engineering. Eventually, I decided to return to what truly inspires me — systems programming, game engines, and performance-critical development.
+Still, deep inside, I always knew that web development wasn’t my final destination. My passion consistently pulled me back to C++, signal processing, and low-level engineering. Eventually, I decided to return to what truly inspires me — building high-performance systems, working with digital audio, and developing custom engines and tools from scratch.
 
 Since then, I’ve created projects such as:
 
