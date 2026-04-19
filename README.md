@@ -4,14 +4,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Serhii-Nesteruk/Serhii-Nesteruk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Serhii-Nesteruk/Serhii-Nesteruk/output/github-contribution-grid-snake.svg">
 </picture>
-
+  
 ## Tech Stack
+- C#, .NET (ASP.NET Core MVC, Minimal APIs, Entity Framework)
+- C++ (performance / low-level)
+- SQL (PostgreSQL)
 
-* C++, STL, SFML, Java, OpenGL, JOGL,  Qt, ImGui, Kotlin, PHP, Python, JavaScript, TypeScript,
-* CMake, Make
-* PostgreSQL, MySQL, SQLite, MongoDB
-* Spring Framework, Node.js, Nest.js, Express, React
-
+## Additional
+- OpenGL, ImGui
+- DSP (audio)
+  
 🈯 **Languages:**
 
 * Ukrainian (native)
