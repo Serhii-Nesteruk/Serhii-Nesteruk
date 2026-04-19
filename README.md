@@ -6,7 +6,7 @@
 </picture>
   
 ## Tech Stack
-- C#, .NET (ASP.NET Core MVC, Minimal APIs, Entity Framework)
+- C#, .NET (ASP.NET Core WebAPI, Entity Framework)
 - C++ (performance / low-level)
 - SQL (PostgreSQL)
 
